@@ -1,8 +1,7 @@
 # Dependencies
 import tweepy
-import time
 import json
-import random
+import time
 import os
 
 consumer_key = os.environ['consumer_key']
